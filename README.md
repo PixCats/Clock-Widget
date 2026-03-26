@@ -2,6 +2,9 @@
 
 A lightweight, frameless desktop clock widget for Windows. Sits on your desktop with full transparency support, per-monitor DPI awareness, and a built-in stopwatch — all customisable via right-click.
 
+
+![SteamWidget Preview](main.png)
+
 ---
 
 ## Screenshots
@@ -9,7 +12,6 @@ A lightweight, frameless desktop clock widget for Windows. Sits on your desktop 
 ## 📸 Screenshots
 
 | Main View | right_click | color pick | StopWatch |
-|-----------|------------|--------|
 | ![main](ss1.png) | ![right_click_menu](ss2menu.png) | ![color_pick](ss3color.png) | ![StopWatch](ss4stopwatch.png) |
 
 ---
