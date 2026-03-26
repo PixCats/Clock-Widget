@@ -3,7 +3,7 @@
 A lightweight, frameless desktop clock widget for Windows. Sits on your desktop with full transparency support, per-monitor DPI awareness, and a built-in stopwatch — all customisable via right-click.
 
 
-![SteamWidget Preview](main.png)
+![Clock Widget Preview](ss1.png)
 
 ---
 
