@@ -8,7 +8,7 @@ A lightweight, frameless desktop clock widget for Windows. Sits on your desktop 
 
 ## 📸 Screenshots
 
-| Main View | Favourites | Search |
+| Main View | right_click | color pick | StopWatch |
 |-----------|------------|--------|
 | ![main](ss1.png) | ![right_click_menu](ss2menu.png) | ![color_pick](ss3color.png) | ![StopWatch](ss4stopwatch.png) |
 
