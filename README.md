@@ -6,7 +6,11 @@ A lightweight, frameless desktop clock widget for Windows. Sits on your desktop 
 
 ## Screenshots
 
-> *(Coming soon)*
+## 📸 Screenshots
+
+| Main View | Favourites | Search |
+|-----------|------------|--------|
+| ![main](ss1.png) | ![right_click_menu](ss2menu.png) | ![color_pick](ss3color.png) | ![StopWatch](ss4stopwatch.png) |
 
 ---
 
@@ -59,13 +63,6 @@ Right-click anywhere on the widget to open the context menu.
 | Show Date | Toggles the date row |
 | Always on Top | Keeps the widget above all other windows |
 | Start with Windows | Adds or removes the widget from Windows startup |
-
----
-
-## Requirements
-
-- Windows 10 or later
-- .NET 8 Runtime ([download here](https://dotnet.microsoft.com/en-us/download/dotnet/8.0))
 
 ---
 
